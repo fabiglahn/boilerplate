@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --color-primary: white;
+}
+
+body {
+  margin: 0;
+}
